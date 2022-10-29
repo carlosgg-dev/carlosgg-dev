@@ -18,5 +18,5 @@ I'm Carlos, back-end developer from :es: Mallorca, Spain. Currently learning and
 ![macOS](https://img.shields.io/badge/mac%20os-ffffff?style=flat&logo=macos&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-fcda68?style=flat&logo=linux&logoColor=black)
 #### Contact with me
-<a href="#" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="27"/></a>
+<a href="https://www.linkedin.com/in/carlos-gonzalez-gomez/" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="27"/></a>
 <a href="https://www.instagram.com/charleegomez/" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="27"/></a>
